@@ -1,0 +1,1 @@
+芯片规格书部分来自： [Wenting Zhang driving-lcds](https://gitlab.com/zephray/driving-lcds/-/tree/main)
